@@ -1,0 +1,26 @@
+{
+	"Profile": {
+		"First Name": "Lolly",
+		"Last Name": "Lofi",
+		"Weight": "25kg",
+		"Age": "12",
+	},
+	"Profession": {
+		"Company": "ABS",
+		"Experience": "3",
+		"Role": "Asssitance",
+		"Salary": "12000",
+	
+	},
+	"Behaviour": {
+		"Anger": "Good",
+		"Kind": "Low",
+		"Patience": "5",
+
+	},
+	"Characteristic": {
+		"Skills": "low",
+		"Communication": "2",
+		"Stamina": "4",
+	}
+}
